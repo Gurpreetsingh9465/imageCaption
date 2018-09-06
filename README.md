@@ -8,11 +8,17 @@ https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_a
 3. numpy
 
 ## Examples
-!["first2"](https://raw.githubusercontent.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(10).png "first2")
-(https://raw.githubusercontent.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(11).png )
-(https://raw.githubusercontent.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(15).png)
-(https://raw.githubusercontent.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(16).png)
-(https://raw.githubusercontent.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(17).png)
+<img src="https://github.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(10).png" width="400">
+<br/>
+<img src="https://github.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(11).png" width="400">
+<br/>
+<img src="https://github.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(15).png" width="400">
+<br/>
+<img src="https://github.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(16).png" width="400">
+<br/>
+<img src="https://github.com/Gurpreetsingh9465/imageCaption/blob/master/examples/Screenshot%20(17).png" width="400">
+<br/>
+
 
 ## Steps
 
