@@ -1,5 +1,5 @@
 # Image Caption
-This is th inference of the show and tell model using inception V3 trained on mscoco dataset learn more 
+This is the inference of the show and tell model using inception V3 trained on mscoco dataset learn more 
 https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf
 
 ## Requirement
